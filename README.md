@@ -2,6 +2,9 @@
 
 This is a [Next.js](https://nextjs.org) project that demonstrates a complete authentication system using Firebase and Google Sign-In.
 
+### Check out the demo!
+https://sidheimer.netlify.app/
+
 ## Features
 
 - Google Authentication using Firebase
